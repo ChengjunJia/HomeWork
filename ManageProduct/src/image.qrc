@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/button.png</file>
+        <file>images/button-hover.png</file>
+        <file>images/button-pressed.png</file>
+        <file>images/down-arrow.png</file>
+        <file>candy/candy.qss</file>
+        <file>image2/account.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/account.png</file>
+        <file>images/Change_Password.png</file>
+        <file>images/advanced_manager.png</file>
+        <file>images/Delete.png</file>
+        <file>images/dialog_logout.png</file>
+        <file>images/note_add.png</file>
+        <file>images/Search.png</file>
+        <file>images/why_help.png</file>
+        <file>images/Close.png</file>
+    </qresource>
+</RCC>
