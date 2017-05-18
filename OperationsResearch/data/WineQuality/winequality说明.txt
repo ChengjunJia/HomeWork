@@ -1,0 +1,21 @@
+uci wine quality 数据集中有red和white两种，你任选一种即可，需在报告里说明选了哪一种。
+在MATLAB中，可以参考以下代码读取数据：
+   red=importdata('winequality-red.csv');
+   X = red.data(:,1:11);
+   y = red.data(:,12);
+   size(X)  %值为[1599,11] ，表示有m=1599个样本，每个样本的维度是n=11
+   size(y)  %值为[1599,1]，标签y的取值范围为{0,1,2,...,10}
+样本维度n=11, 各维度的含义如下：
+   1 - fixed acidity
+   2 - volatile acidity
+   3 - citric acid
+   4 - residual sugar
+   5 - chlorides
+   6 - free sulfur dioxide
+   7 - total sulfur dioxide
+   8 - density
+   9 - pH
+   10 - sulphates
+   11 - alcohol
+样本标签有11种可能的取值，但不是均匀排布的。你需要自己确定把哪几种类别当做一类，把哪几种类别当做另一类，并在报告中说明。
+   12 - quality (score between 0 and 10)
