@@ -11,5 +11,7 @@ HW3——贝叶斯最小错误率和最小风险预测
 
 HW4——神经网络训练，对于0-9的手写体的识别分类；增加使用Fisher判据和logistic回归
 
+HW5——AdaBoost,随机森林
+
 sparseae_exercise——MIT的基于神经网络的自动编码器，[官网](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
