@@ -13,5 +13,11 @@ HW4——神经网络训练，对于0-9的手写体的识别分类；增加使�
 
 HW5——AdaBoost,随机森林
 
+HW6——支持向量机
+
+HW7——决策树
+
+HW8——数据压缩、特征提取
+
 sparseae_exercise——MIT的基于神经网络的自动编码器，[官网](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
