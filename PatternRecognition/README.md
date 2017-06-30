@@ -1,5 +1,5 @@
 # PatternRecognition
-模式识别课程作业——汪小我老师课程
+模式识别课程作业——汪小我j教授
 
 使用语言：MATLAB
 
@@ -20,4 +20,6 @@ HW7——决策树
 HW8——数据压缩、特征提取
 
 sparseae_exercise——MIT的基于神经网络的自动编码器，[官网](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+
+[Back to Home](../README.md)
 
