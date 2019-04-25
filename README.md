@@ -6,8 +6,8 @@
 | NetworkChat | Java | [Simulate the WeChat](NetworkChat/README.md) |
 | PatternRecognize | MATLAB | [Pattern Recognize](PatternRecognition/README.md) |
 | SeveralWorks | MATLAB | [Several work about Control](SeveralWorks/README.md) |
-| ShuZhi1_ImageWrap | C++ | [Image Wrap with OpenCv](ShuZhi1_ImageWrap/README.md) |
-| ShuZhi2_ln | C++ | Calculate the function: ln |
+| NumberAnalysis_ImageWrap | C++ | [Image Wrap with OpenCv](NumberAnalysis_ImageWarp/README.md) |
+| NumberAnalysis_log | C++ | [Calculate the function: log](NumberAnalysis_log/README.md) |
 | Demining | C# | [Game: Demining](Demining/README.md) |
 | OperationsResearch | MATLAB | [NN,CNN](OperationsResearch/README.md) |
 
